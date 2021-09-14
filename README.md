@@ -12,9 +12,11 @@
 # 8. Which sport is having most female Gold Medalists? (Top 5)
 
 
-# About the author 
+# About the author :
 Name: Ramagiri Pavan
+
 Mail: ramagiripavan9753@gmail.com
+
 Linkedin profile : https://www.linkedin.com/in/ramagiri-pavan-4210341bb
 
 
